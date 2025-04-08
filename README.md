@@ -37,7 +37,7 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-since I was unable to use youtube, I chose to upload the video directly on to the github. Please see the file called "Screen Recording 2025-04-08 8.44.39AM"
+since I was unable to use youtube, I chose to upload the video directly on to the github. Please see the file called "Screen Recording 2025-04-08 8.44.39AM", It includes a 3 second sound clip when the ocean background pops up, a fish, kelp, and text at the top saying "This is the ocean".
 
 ## Project Description
 
