@@ -5,7 +5,7 @@ import org.code.media.*;
  * It draws either an ocean or desert, then adds animals and plants
  * based on user input.
  * This class extends the scene class 
- * the main method 
+ * the main method is play, which makes this class helpful
  */
 
 public class Nature extends Scene {
